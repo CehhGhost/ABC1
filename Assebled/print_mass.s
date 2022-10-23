@@ -21,7 +21,7 @@ print_mass:
 	sub	rsp, 32
 	mov	QWORD PTR -24[rbp], rdi	# int* mass (= -24)
 	mov	DWORD PTR -28[rbp], esi	# int size (= -28)
-	mov	DWORD PTR -4[rbp], 0	# int size (= -4)
+	mov	DWORD PTR -4[rbp], 0	# int i (= -4)
 	jmp	.L2
 .L3:
 	mov	eax, DWORD PTR -4[rbp]

@@ -7,4 +7,4 @@
 >    -fno-exceptions \
 >    ./make_array.c \
 >    -S -o ./make_array_edited.s
-* <исходный код>
+* < исходный код >

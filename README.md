@@ -25,3 +25,19 @@
 В программе используются локальные переменные (например int size), присутствуют две функции с передачей данных через параметры:
 * create_b(const int *A, int *B, int size)
 * print_mass(int *mass, int size)
+### 2) В программу добавленны комментарии, описывающие передачу фактических параметров, перенос возвращаемого результата и связь между параметрами языка Си и регистрами (стеком).
+* [main_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/main_updated.s)
+* [create_b_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/create_b_updated.s)
+* [print_mass_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/print_mass_updated.s)
+## <br> На 6 баллов:
+### 1) Рефакторинг программы на ассемблере за счет максимального использования регистров процессора:
+#### В main:
+> * r12d
+> * r13d
+> * r14d
+#### В print_mass:
+> * r12d
+#### В create_b:
+> * r12d
+> * r13d
+> * r14d

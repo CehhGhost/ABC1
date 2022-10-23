@@ -7,5 +7,19 @@
 >    -fno-exceptions \
 >    ./make_array.c \
 >    -S -o ./make_array_edited.s
-  int a
-  int b
+## <br> Также удалены бесполезный присваивания:
+- mov	rax, rsp
+- mov	rbx, rax
++ mov	rbx, rsp
+
+- mov	rax, QWORD PTR -136[rbp]
+- mov	rdi, rax
++ mov	rdi, QWORD PTR -136[rbp]
+
+- mov	rax, QWORD PTR -144[rbp]
+- mov	rdi, rax
++ mov	rdi, QWORD PTR -144[rbp]
+
+- mov	rdx, rsp
+- mov	rbx, rdx
++ mov	rbx, rsp

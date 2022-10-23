@@ -19,3 +19,4 @@
 #### Список изменений:
 > https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/Changes.md
 ### 4) тестирование
+[tests.md](https://github.com/CehhGhost/ABC1/blob/main/tests.md)

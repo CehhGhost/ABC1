@@ -10,12 +10,12 @@
 эквивалентное представление переменных в программе на C:
 * [main.s](https://github.com/CehhGhost/ABC1/blob/main/Assebled/main.s)
 * [create_b.s](https://github.com/CehhGhost/ABC1/blob/main/Assebled/create_b.s)
-* [print_array.s](https://github.com/CehhGhost/ABC1/blob/main/Assebled/print_array.s)
+* [print_mass.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld/print_mass_.s)
 ### 3) Из ассемблерной программы убраны лишние макросы за счет использования соответствующих аргументов командной строки и/или за счет
 ручного редактирования исходного текста ассемблерной программы:
 * [main_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/main_updated.s)
 * [create_b_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/create_b_updated.s)
-* [print_array_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/print_array_updated.s)
+* [print_mass_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/print_mass_updated.s)
 #### [Список изменений](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/Changes.md)
 ### 4) тестирование
 > [ссылка на тесты](https://github.com/CehhGhost/ABC1/blob/main/tests.md)

@@ -45,3 +45,6 @@
 * [main_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/main_updated.s)
 * [create_b_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/create_b_updated.s)
 * [print_mass_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/print_mass_updated.s)
+### 3) тестирование
+> [ссылка на тесты](https://github.com/CehhGhost/ABC1/blob/main/tests.md)
+> <br> При просмотре тестов можно заметить, что программа до модификаций и после работает одинаково и без ошибок => модификации установленны верно

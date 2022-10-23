@@ -41,3 +41,7 @@
 > * r12d
 > * r13d
 > * r14d
+### 2) В программу добавленны комментарии, поясняющие эквивалентное использование регистров вместо переменных исходной программы на C.
+* [main_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/main_updated.s)
+* [create_b_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/create_b_updated.s)
+* [print_mass_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/print_mass_updated.s)

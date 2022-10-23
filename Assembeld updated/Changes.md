@@ -1,12 +1,14 @@
 # Модификации
-## Был использован аргумент командной строки:
-> gcc -masm=intel \
->    -fno-asynchronous-unwind-tables \
->    -fno-jump-tables \
->    -fno-stack-protector \
->    -fno-exceptions \
->    ./make_array.c \
->    -S -o ./make_array_edited.s
+## Был использован аргумент командной строки: 
+~~~bash
+gcc -masm=intel \
+-fno-asynchronous-unwind-tables \
+-fno-jump-tables \
+-fno-stack-protector \
+-fno-exceptions \
+./make_array.c \
+-S -o ./make_array_edited.s
+~~~
 ## <br> Также удалены бесполезный присваивания:
 > \- mov	rax, rsp
 > <br> - mov	rbx, rax

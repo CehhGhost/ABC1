@@ -25,7 +25,7 @@
 В программе используются локальные переменные (например int size), присутствуют две функции с передачей данных через параметры:
 * create_b(const int *A, int *B, int size)
 * print_mass(int *mass, int size)
-### 2) В программу добавленны комментарии, описывающие передачу фактических параметров, перенос возвращаемого результата и связь между параметрами языка Си и регистрами (стеком).
+### 2) В программу добавленны комментарии, описывающие передачу фактических параметров, перенос возвращаемого результата и связь между параметрами языка Си и регистрами (стеком)
 * [main_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/main_updated.s)
 * [create_b_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/create_b_updated.s)
 * [print_mass_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/print_mass_updated.s)
@@ -41,7 +41,7 @@
 > * r12d
 > * r13d
 > * r14d
-### 2) В программу добавленны комментарии, поясняющие эквивалентное использование регистров вместо переменных исходной программы на C.
+### 2) В программу добавленны комментарии, поясняющие эквивалентное использование регистров вместо переменных исходной программы на C
 * [main_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/main_updated.s)
 * [create_b_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/create_b_updated.s)
 * [print_mass_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/print_mass_updated.s)
@@ -54,3 +54,6 @@
 * [create_b_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/create_b_updated.s)
 * [print_mass_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/print_mass_updated.s)
 ### 2) Файл с входными данными - [input.txt](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/input.txt), файл с выходными данными - [output.txt](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/output.txt)
+### 3) Тестирование
+> [ссылка на тесты](https://github.com/CehhGhost/ABC1/blob/main/tests.md)
+> <br> При просмотре тестов можно заметить, что программа корректно считывает из входного файла и записывает в выходной файл

@@ -5,7 +5,7 @@
 ### 1) Приведено решение задачи на C (с использованием трех единиц компиляции):
 * [main.c](https://github.com/CehhGhost/ABC1/blob/main/C%20code/main.c)
 * [create_b.c](https://github.com/CehhGhost/ABC1/blob/main/C%20code/create_b.c)
-* [print_array.c](https://github.com/CehhGhost/ABC1/blob/main/C%20code/print_array.c)
+* [print_mass.c](https://github.com/CehhGhost/ABC1/blob/main/C%20code/print_mass.c)
 ### 2)  В полученную ассемблерную программу, откомпилированную без оптимизирующих и отладочных опций, добавлены комментарии, поясняющие
 эквивалентное представление переменных в программе на C:
 * [main.s](https://github.com/CehhGhost/ABC1/blob/main/Assebled/main.s)

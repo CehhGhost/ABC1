@@ -45,6 +45,12 @@
 * [main_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/main_updated.s)
 * [create_b_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/create_b_updated.s)
 * [print_mass_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/print_mass_updated.s)
-### 3) тестирование
+### 3) Тестирование
 > [ссылка на тесты](https://github.com/CehhGhost/ABC1/blob/main/tests.md)
 > <br> При просмотре тестов можно заметить, что программа до модификаций и после работает одинаково и без ошибок => модификации установленны верно
+## <br> На 7 баллов:
+### 1) Реализация программы на ассемблере, полученной после рефакторинга, в виде двух или более единиц компиляции (main_updated.s, create_b_updated.s, print_mass_updated.s):
+* [main_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/main_updated.s)
+* [create_b_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/create_b_updated.s)
+* [print_mass_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/print_mass_updated.s)
+### 2) Файл с входными данными - 'input.txt', файл с выходными данными - 'output.txt'

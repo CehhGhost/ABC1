@@ -1,6 +1,6 @@
 # Модификации
 ## Был использован аргумент командной строки: 
-~~~bash
+~~~
 gcc -masm=intel \
 -fno-asynchronous-unwind-tables \
 -fno-jump-tables \
@@ -9,7 +9,7 @@ gcc -masm=intel \
 ./make_array.c \
 -S -o ./make_array_edited.s
 ~~~
-## <br> Также удалены бесполезный присваивания:
+## <br> Также удалены бесполезный присваивания из main.s:
 > \- mov	rax, rsp
 > <br> - mov	rbx, rax
 > <br> + mov	rbx, rsp
@@ -25,3 +25,5 @@ gcc -masm=intel \
 > \- mov	rdx, rsp
 > <br> - mov	rbx, rdx
 > <br> + mov	rbx, rsp
+## <br> Так же во всех файлах удалены:
+> endbr64

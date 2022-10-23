@@ -13,6 +13,6 @@
 <br> [print_array.s](https://github.com/CehhGhost/ABC1/blob/main/Assebled/print_array.s)
 3) Из ассемблерной программы убраны лишние макросы за счет использования соответствующих аргументов командной строки и/или за счет
 ручного редактирования исходного текста ассемблерной программы:
-<br> [main_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assebled updated/main_updated.s)
-<br> [create_b_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assebled updated/create_b_updated.s)
-<br> [print_array_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assebled updated/print_array_updated.s)
+<br> [main_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assebled%20updated/main_updated.s)
+<br> [create_b_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assebled%20dupdated/create_b_updated.s)
+<br> [print_array_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assebledd%20updated/print_array_updated.s)

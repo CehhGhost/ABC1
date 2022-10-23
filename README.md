@@ -19,4 +19,5 @@
 #### Список изменений:
 > https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/Changes.md
 ### 4) тестирование
-[tests.md](https://github.com/CehhGhost/ABC1/blob/main/tests.md)
+> [ссылка на тесты](https://github.com/CehhGhost/ABC1/blob/main/tests.md)
+> <br> При просмотре тестов можно заметить, что программа до модификаций и после работает одинаково и без ошибок => модификации установленны верно

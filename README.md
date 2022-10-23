@@ -3,3 +3,4 @@
 # <br> Отчет
 ## <br> На 4 балла:
 1) Приведено решение задачи на C (с использованием трех единиц компиляции):
+[create_b.c](https://github.com/CehhGhost/ABC1/blob/main/C%20code/create_b.c)

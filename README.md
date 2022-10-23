@@ -10,7 +10,7 @@
 эквивалентное представление переменных в программе на C:
 * [main.s](https://github.com/CehhGhost/ABC1/blob/main/Assebled/main.s)
 * [create_b.s](https://github.com/CehhGhost/ABC1/blob/main/Assebled/create_b.s)
-* [print_mass.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld/print_mass_.s)
+* [print_mass.s](https://github.com/CehhGhost/ABC1/blob/main/Assebled/https://github.com/CehhGhost/ABC1/blob/main/Assebled/print_mass.s)
 ### 3) Из ассемблерной программы убраны лишние макросы за счет использования соответствующих аргументов командной строки и/или за счет
 ручного редактирования исходного текста ассемблерной программы:
 * [main_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/main_updated.s)

@@ -15,3 +15,10 @@
 ![Test6](https://github.com/CehhGhost/ABC1/blob/main/TestPic/Test6.png)
 ## На 6 баллов:
 #### 1) без модификаций (A = [5, 15, 6, 4, 11, 23]):
+![Test7](https://github.com/CehhGhost/ABC1/blob/main/TestPic/Test7.png)
+#### 2) с модификациями (A = [5, 15, 6, 4, 11, 23]):
+![Test8](https://github.com/CehhGhost/ABC1/blob/main/TestPic/Test8.png)
+#### 3) без модификаций (генератор с заданным сидом(45)):
+![Test9](https://github.com/CehhGhost/ABC1/blob/main/TestPic/Test9.png)
+#### 4) с модификациями (генератор с заданным сидом(45)):
+![Test10](https://github.com/CehhGhost/ABC1/blob/main/TestPic/Test10.png)

@@ -13,3 +13,5 @@
 ![Test5](https://github.com/CehhGhost/ABC1/blob/main/TestPic/Test5.png)
 #### 2) с модификациями:
 ![Test6](https://github.com/CehhGhost/ABC1/blob/main/TestPic/Test6.png)
+## На 6 баллов:
+#### 1) без модификаций (A = [5, 15, 6, 4, 11, 23]):

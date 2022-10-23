@@ -53,4 +53,4 @@
 * [main_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/main_updated.s)
 * [create_b_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/create_b_updated.s)
 * [print_mass_updated.s](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/print_mass_updated.s)
-### 2) Файл с входными данными - 'input.txt', файл с выходными данными - 'output.txt'
+### 2) Файл с входными данными - [input.txt](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/input.txt), файл с выходными данными - [output.txt](https://github.com/CehhGhost/ABC1/blob/main/Assembeld%20updated/output.txt)

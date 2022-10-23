@@ -23,3 +23,5 @@
 #### 4) с модификациями (генератор с заданным сидом(45)):
 ![Test10](https://github.com/CehhGhost/ABC1/blob/main/TestPic/Test10.png)
 ## На 7 баллов:
+#### Ввод и вывод через файлы:
+![Test11](https://github.com/CehhGhost/ABC1/blob/main/TestPic/Test10.png)

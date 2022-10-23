@@ -8,9 +8,9 @@
 >    ./make_array.c \
 >    -S -o ./make_array_edited.s
 ## <br> Также удалены бесполезный присваивания:
-> - mov	rax, rsp
-> - mov	rbx, rax
-> + mov	rbx, rsp
+> <br> - mov	rax, rsp
+> <br> - mov	rbx, rax
+> <br> + mov	rbx, rsp
 
 - mov	rax, QWORD PTR -136[rbp]
 - mov	rdi, rax

@@ -8,7 +8,7 @@
 >    ./make_array.c \
 >    -S -o ./make_array_edited.s
 ## <br> Также удалены бесполезный присваивания:
-> <br> - mov	rax, rsp
+> - mov	rax, rsp
 > <br> - mov	rbx, rax
 > <br> + mov	rbx, rsp
 
